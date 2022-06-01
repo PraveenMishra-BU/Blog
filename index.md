@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Why ReLU (Rectified Linear Unit) activation funtion is so popular in Deep Neural Network? 
